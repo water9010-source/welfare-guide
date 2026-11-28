@@ -4,11 +4,11 @@
 使用條件
 1. 你可以自己使用、修改，也可以分享給需要的人。本 Skill 免費提供。
 2. 修改後的版本，或把它（原版或修改版）提供給別人時，必須保留本檔，以及「原始創作者：LI WEI」這行字；不得刪除，也不得改成別人的名字。
-3. 本 Skill 只提供方向與做法，不是法律或官方意見；補助結果以主管機關審核為準。
+3. 本 Skill 只告訴你該找哪個官方窗口，不是法律或官方意見；能不能申請、金額，以窗口回答與主管機關審核為準。
 
 Original author: LI WEI (developer of 治理系統 Pro / Governance System Pro)
 
 Terms
 1. You may use, modify and share this Skill. It is provided free of charge.
 2. Any modified version, and any copy (original or modified) you give to others, must keep this file and the line "Original author: LI WEI". Do not remove it or replace it with another name.
-3. This Skill gives guidance only. It is not legal or official advice; results are decided by the responsible authorities.
+3. This Skill only points you to the right official office. It is not legal or official advice; eligibility and amounts are decided by the responsible authorities.
